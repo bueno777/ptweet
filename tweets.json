@@ -1,0 +1,41 @@
+[
+    {
+        "id":1,
+        "img":"camerino.jpg",
+        "nombre":"Don Camerino",
+        "username":"camerino",
+        "fecha":"2021/03/2021 12:59",
+        "tweet":"Soy dueño xs media ciudad pluche",
+        "retweets":12,
+        "likes":1,
+        "commentarios":[
+            {
+                "id_usuario":2,
+                "img":"lucrecia.jpg",
+                "nombre":"Lucrecia",
+                "username":"lucre",
+                "fecha":"2021/03/2021 14:20",
+                "commentario":"Que wapoooo" 
+            },
+            {
+                "id_usuario":3,
+                "img":"ludo.jpg",
+                "nombre":"Ludovico P",
+                "username":"ludovico",
+                "fecha":"2021/03/2021 14:20",
+                "commentario":"Me aumenta el sueldo?" 
+            }
+        ]
+    },
+    {
+        "id":2,
+        "img":"bibi.jpg",
+        "nombre":"Don Camerino",
+        "username":"camerino",
+        "fecha":"2021/03/2021 12:59",
+        "tweet":"Soy dueño xs media ciudad pluche",
+        "retweets":12,
+        "likes":1,
+        "commentarios":[  
+    }
+]
